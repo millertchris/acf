@@ -4,7 +4,7 @@
     "description": "Advanced Custom Fields for WordPress",
     "keywords": ["advanced","custom", "fields", "wordpress", "plugin"],
     "homepage": "https://www.advancedcustomfields.com/",
-    "license": "GPLv2 or later",
+    "license": "GPL-2.0-or-later",
     "authors": [
       {
             "name": "Chris Miller",
